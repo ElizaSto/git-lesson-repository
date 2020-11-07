@@ -1,0 +1,19 @@
+első sor
+második sor
+harmadik sor
+negyedik sor
+
+első sor
+harmadik sor
+második sor
+negyedik sor
+
+
+
+
+**********************************************
+megjegyzés: 
+én így csináltam: echo | cat sajátsorrend.txt | sort  >> sajátsorrend.txt
+
+Eredetileg azt szerettem volna, hogy az eredeti szövegeket felülírja az abc sorrendbe rakottal > , de ilyenkor mindig kitörölte az egészet, így maradt a >> 
+**********************************************
